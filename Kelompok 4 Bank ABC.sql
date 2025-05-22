@@ -1,4 +1,3 @@
-
 CREATE TABLE Pengguna (
     NIK VARCHAR(16) PRIMARY KEY,
     Nama_Pengguna VARCHAR(100),
